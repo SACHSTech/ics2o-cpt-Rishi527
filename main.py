@@ -5,7 +5,7 @@ Purpose: To test the knowledge of people taking the quiz
 
 Author: Rishi Kalathil
 
-Created: date 01/24/2021
+Created: date 01/24/2021  
 --------------------------
 '''
 
@@ -17,7 +17,7 @@ def display_intro():
     print("*" * len(title))
     print(title)
     print("*" * len(title))
-
+  
 #The menu list that the user can select topics to do questions from
 def display_menu():
     menu_list = ["1. Ransomware", "2. Trojan Horse", "3. Worms", "4. Spyware", "5. GPU", "6. CPU", "7. Memory", "8. Keyboard", "9. Random", "10. Exit"]
